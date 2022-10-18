@@ -1,7 +1,7 @@
 import discord
 
 #early version, still in development
-#author: DanielCodingGuy
+#author: danielCodingGuy
 
 class MyClient(discord.Client):
     async def on_ready(self):
