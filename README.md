@@ -1,5 +1,7 @@
 # DiscordBot
-## Groundwork for discord bot made in python with discord.py<br>
+## Groundwork for discord bot made in python with:<br>
+-Discord.py
+-Flask
 
 ## Roadmap:<br>
 -Help with list of commands<br>
