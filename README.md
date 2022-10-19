@@ -1,7 +1,7 @@
 # DiscordBot
-##Groundwork for discord bot made in python with discord.py<br>
+## Groundwork for discord bot made in python with discord.py<br>
 
-##Roadmap:<br>
+## Roadmap:<br>
 -Help with list of commands<br>
 -Bot Status<br>
 -Adding Admin Features (kick, ban, unban)<br>
@@ -10,5 +10,5 @@
 -Clear chat<br>
 -Cloud hosting method with flask<br>
 
-##Info:<br>
+## Info:<br>
 Im doing it all by myself so updates may be inconsistent, but will try my best to make it work
