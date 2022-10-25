@@ -4,8 +4,8 @@
 -Flask
 
 ## Roadmap:<br>
-Random response from pseudo db<br> ✔
-Bot Status<br> ✔
+✔Random response from pseudo db<br>
+✔Bot Status<br>
 -Help with list of commands<br>
 -Adding Admin Features (kick, ban, unban)<br>
 -Embedded messages<br>
