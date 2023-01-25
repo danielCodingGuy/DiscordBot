@@ -20,3 +20,5 @@ intents.message_content = True
 
 client = MyClient(intents=intents)
 client.run('token')
+
+#token can be stored in external .env file, will add it later down the line
