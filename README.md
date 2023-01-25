@@ -11,6 +11,7 @@
 -Embedded messages<br>
 -Clear chat<br>
 -Cloud hosting method with flask<br>
+And maybe more to come down the line
 
 ## Info:<br>
 Im doing it all by myself so updates may be inconsistent, but will try my best to make it work.
