@@ -1,4 +1,4 @@
-#Command that bans member for time specified in the command or message
+#Command that bans member for time specified in the command or message and deletes that members messages for certain amount of time
 #Author: danielCodingGuy
 
 class BanFlags(commands.FlagConverter):
