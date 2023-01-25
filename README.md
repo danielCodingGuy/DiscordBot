@@ -7,7 +7,7 @@
 ✔Random response from pseudo db<br>
 ✔Bot Status<br>
 ✔Help with list of commands<br>
--Adding Admin Features (kick, ban, unban)<br>
+-Adding Admin Features (kick, ban, unban)[ongoing]<br>
 -Embedded messages<br>
 -Clear chat<br>
 -Cloud hosting method with flask<br>
