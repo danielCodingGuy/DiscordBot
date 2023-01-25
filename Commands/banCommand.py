@@ -17,3 +17,4 @@ async def ban(ctx, *, flags: BanFlags):
 
 #Example: @<Bot name> ban member: @<member name> reason:<reason> days:<number of days>
 #If number of days is different than the time specified in the code, this command should ban user mentioned in the message for time specified in the message
+#You can also use '@commands.has_permissions(kick_members=True)' between BanFlags and async def ban to prevent trolls from kicking admins etc.
