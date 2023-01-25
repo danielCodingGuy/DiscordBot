@@ -1,0 +1,5 @@
+To make the things work and customize it for yourself you will need to install discord py's API wrapper:
+py -m pip install discord (simply put it in console in VS Code)
+also for some functionalities you will need to import libraries, here are the basic ones:
+import discord
+from discord.ext import commands
