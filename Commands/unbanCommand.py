@@ -8,7 +8,7 @@ async def _unban(ctx, id: int):
     user = await bot.fetch_user(id)
     await ctx.guild.unban(user)
 
-bot.run("token.env") #If you have your token in env file use it this way, if not you can pase your token there
+bot.run("token.env") #If you have your token in env file use it this way, if not you can paste your token there
 
 #Gonna need these:  
 #   from discord import User
