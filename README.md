@@ -10,7 +10,7 @@
 ✔Adding Admin Features (kick, ban, unban)[ongoing]<br>
 ✔Embedded messages<br>
 ✔Clear chat<br>
--Cloud hosting method with flask<br>
+✔Cloud hosting method with flask<br>
 And maybe more to come down the line
 
 ## Info:<br>
