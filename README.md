@@ -2,7 +2,7 @@
 ## Groundwork for discord bot made in python with:<br>
 -Discord.py<br>
 -Flask<br>
--Some kind of web hosting app like replit but maybe something better, alternatively you can always host it without keep_alive.py on your own machine.
+-Some kind of web hosting app like replit but maybe something better, you can always host it without keep_alive.py on your own machine as I did.
 
 ## Roadmap:<br>
 ✔Random response from pseudo db<br>
